@@ -1,2 +1,2 @@
 # Python-Projects
-Small beginner Python projects 
+A collection of small projects
